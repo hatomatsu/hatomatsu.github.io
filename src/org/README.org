@@ -3,6 +3,8 @@
 #+OPTIONS: num:nil toc:2 \n:t
 #+EXPORT_FILE_NAME: ../../README
 
-* Homepage
+* Links
 
-link: https://hatomatsu.github.io/
+- My homepage: https://hatomatsu.github.io/ 
+- Twitter: [[https://x.com/hatomatzu]]
+- YouTube: [[https://www.youtube.com/channel/UCAPzKjekYs17jkNIqW0eqvw][はとまつ - YouTube]]

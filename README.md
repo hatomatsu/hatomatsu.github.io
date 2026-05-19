@@ -1,13 +1,15 @@
 
 # Table of Contents
 
--   [Homepage](#org8e30aa5)
+-   [Links](#orgc9cd614)
 
 
 
-<a id="org8e30aa5"></a>
+<a id="orgc9cd614"></a>
 
-# Homepage
+# Links
 
-link: <https://hatomatsu.github.io/>  
+-   My homepage: <https://hatomatsu.github.io/>
+-   Twitter: <https://x.com/hatomatzu>
+-   YouTube: [はとまつ - YouTube](https://www.youtube.com/channel/UCAPzKjekYs17jkNIqW0eqvw)
 
