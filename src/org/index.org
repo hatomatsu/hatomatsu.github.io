@@ -1,4 +1,4 @@
-#+TITLE: Homepage
+#+TITLE: Hatomatsu's Homepage
 #+AUTHOR: Hatomatsu
 #+EMAIL: 
 #+OPTIONS: toc:nil num:nil \n:t timestamp:nil html-self-link-headlines:t
@@ -7,6 +7,11 @@
 #+EXPORT_FILE_NAME: ../../index.html
 
 
-test
 
+
+** Links
+
+[[https://x.com/hatomatzu][x.com]] / [[https://www.youtube.com/@hatomatsu][YouTube]] / [[https://github.com/hatomatsu][GitHub]]
+
+** pdf
 - [[https://hatomatsu.github.io/src/tex/example/example.pdf][example]]  
