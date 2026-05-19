@@ -1,9 +1,9 @@
-#+TITLE: Hatomatsu's Homepage
+#+TITLE: はとまつのホームページ
 #+AUTHOR: Hatomatsu
 #+EMAIL: 
 #+OPTIONS: toc:nil num:nil \n:t timestamp:nil html-self-link-headlines:t
 #+OPTIONS: html-postamble:nil
-#+LANGUAGE: en
+#+LANGUAGE: jp
 #+EXPORT_FILE_NAME: ../../index.html
 
 
