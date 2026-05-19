@@ -3,8 +3,53 @@
 #+OPTIONS: num:nil toc:2 \n:t
 #+EXPORT_FILE_NAME: ../../README
 
-* Links
+* ABOUT
 
-- My homepage: https://hatomatsu.github.io/
+** Links
+
+- My homepage URL: https://hatomatsu.github.io/
 - X / Twitter: [[https://x.com/hatomatzu]]
 - YouTube: [[https://www.youtube.com/channel/UCAPzKjekYs17jkNIqW0eqvw][はとまつ - YouTube]]
+
+
+** Structure
+
+#+begin_src
+  hatomatsu.github.io/
+├── index.html
+├── assets/
+│   ├── css/
+│   └── images/
+│
+├── docs/                       # Downloadable files served on the site
+│   ├── cv.pdf
+│   └── papers/
+│       └── paper1.pdf
+│
+├── src/                        # Source files you edit
+│   ├── tex/
+│   ├── markdown/
+│   ├── org/                    # Emacs org-mode files
+│   └── cpp/                    # C++ source code
+│       ├── project1/
+│       │   ├── main.cpp
+│       │   ├── include/
+│       │   ├── src/
+│       │   ├── CMakeLists.txt
+│       │   └── README.md
+│       └── examples/
+│           └── hello-world.cpp
+│
+├── build/                      # Build artifacts (ignored by git)
+│   ├── tex/
+│   ├── org/
+│   └── cpp/
+│       └── project1/
+│           └── project1        # Compiled executable
+│
+├── scripts/
+│   └── build.sh
+│
+├── README.md
+└── .gitignore
+#+end_src
