@@ -1,1 +1,7 @@
 *.org~
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.tex~
+*.log
