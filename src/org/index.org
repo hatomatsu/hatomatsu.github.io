@@ -14,4 +14,4 @@
 [[https://x.com/hatomatzu][x.com]] / [[https://www.youtube.com/@hatomatsu][YouTube]] / [[https://github.com/hatomatsu][GitHub]]
 
 ** pdf
-- [[https://hatomatsu.github.io/docs/example.pdf][example.pdf]]  
+-  [[./abs/example.html][example]]  ./abs/example.html      

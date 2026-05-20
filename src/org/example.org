@@ -1,0 +1,10 @@
+#+TITLE: example
+#+AUTHOR: Hatomatsu
+#+EMAIL: 
+#+OPTIONS: toc:nil num:nil \n:t timestamp:nil html-self-link-headlines:t
+#+OPTIONS: html-postamble:nil
+#+LANGUAGE: jp
+#+EXPORT_FILE_NAME: ../../abs/example.html
+
+
+[[../docs/example.pdf][../docs/example.pdf]]
