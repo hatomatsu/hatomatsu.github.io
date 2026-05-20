@@ -1,18 +1,18 @@
 
 # Table of Contents
 
--   [ABOUT](#org8be1a01)
-    -   [Links](#org90521cf)
-    -   [Repository Structure](#orgcbff68d)
+-   [ABOUT](#org3b0c42a)
+    -   [Links](#org5167add)
+    -   [Repository Structure](#org1ec4cd4)
 
 
 
-<a id="org8be1a01"></a>
+<a id="org3b0c42a"></a>
 
 # ABOUT
 
 
-<a id="org90521cf"></a>
+<a id="org5167add"></a>
 
 ## Links
 
@@ -21,17 +21,24 @@
 -   YouTube: [はとまつ - YouTube](https://www.youtube.com/channel/UCAPzKjekYs17jkNIqW0eqvw)
 
 
-<a id="orgcbff68d"></a>
+<a id="org1ec4cd4"></a>
 
 ## Repository Structure
 
       hatomatsu.github.io/
-    ├── index.html                 # Created from index.org using org-export
+    ├── index.html                 # Exported from index.org using org-export
     ├── assets/
     │   ├── css/
     │   └── images/
     │
-    ├── pdf/                       # Downloadable files served on the site
+    ├── docs/                       # Markdown and other text files (except pdf)
+    │   ├── file.md
+    │   └── subfolder/
+    │       └── sub.md
+    │
+    │
+    │
+    ├── pdf/                       # Downloadable pdf files served on the site
     │   ├── example.pdf
     │   └── papers/
     │       └── paper1.pdf
