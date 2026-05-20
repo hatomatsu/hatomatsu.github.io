@@ -16,12 +16,19 @@
 
 #+begin_src
   hatomatsu.github.io/
-├── index.html                 # Created from index.org using org-export
+├── index.html                 # Exported from index.org using org-export
 ├── assets/
 │   ├── css/
 │   └── images/
 │
-├── pdf/                       # Downloadable files served on the site
+├── docs/                       # Markdown and other text files (except pdf)
+│   ├── file.md
+│   └── subfolder/
+│       └── sub.md
+│
+│
+│
+├── pdf/                       # Downloadable pdf files served on the site
 │   ├── example.pdf
 │   └── papers/
 │       └── paper1.pdf
