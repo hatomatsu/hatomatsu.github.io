@@ -16,21 +16,27 @@ Each commit message consists of a header, a body and a footer. The header has a 
     <BLANK LINE>
     <footer>
 
-The header is mandatory and the scope of the header is optional.  
+The type and subject of the header are mandatory. The scope of the header is optional.  
 
 
-### Type
+### Commit Type Prefix (must)
 
--   `fix:` A bug fix
--   `feat:` A new feature
--   `!` or  `BREAKING CHANGE:` A code that introduces a breaking change
+Prefix should be one of the following:  
+
+-   `build:` A change that affect the build system or external dependencies
+-   `ci:` A change to CI configuration files and scripts
+-   `docs:` documentation change
+-   `fix:` bug fix
+-   `feat:` Adding new feature
+-   `perf:` Performance improvements
+-   `refactor:` A change that neither fixes a bug nor adds a feature
+-   `style:` A change that do not affect the meaning of the code (white-space, formatting, missing semic-colons, etc)
 -   `test:` Adding missing or correcting existing tests
--   `perf:` A code change that improves performance
--   `refactor:` A code change that neither fixes a bug nor adds a feature
--   `style:` Changes that do not affect the meaning of the code (white-space, formatting, missing semic-colons, etc)
+
+-   `revert:` when you revert
 
 
-### Scope
+### Commit Scope (optional)
 
 The scope should be the name of the npm package affected (as perceived by the person reading the changelog generated from commit messages.  
 
@@ -61,26 +67,32 @@ There are currently a few exceptions to the "use package name" rule:
 -   none/empty string: useful for style, test and refactor changes that are done across all packages (e.g. style: add missing semicolons)
 
 
-### Subject
+### Commit Subject (must)
 
-The subject contains a succinct description of the change  
+This is a very short description of the change.  
 
--   use the imperative, present tense: "change" not "changed" nor "changes"
--   don't capitalize the first letter
--   no dot (.) at the end
-
-
-### Body
-
-Just as in the subject, use the imperative, present tense: "change" not "changed" nor "changes".  
-The body should include the motivation for the change and contrast this with previous behavior.  
+-   Use the imperative, present tense: "change" not "changed" nor "changes"
+-   Don't capitalize the first letter
+-   No period dot (.) at the end
 
 
-### Footer
+### Commit Message Body (desired)
 
-The footer should contain any information about Breaking Changes and is also the place to reference GitHub issues that this commit Closes.  
+-   Use the imperative, present tense: "change" not "changed" nor "changes".
+-   Explain the motivation for the change and contrast this with previous behavior.
+-   When reverting, the body should be "This reverts commit <hash>", where the hash is the SHA of the commit being reverted.
+
+
+### Commit Footer (if neccesary)
+
+The footer should contain any information about Breaking Changes.  
+
+The footer should contain references to GitHub issues that this commit Closes.  
 
 Breaking Changes should start with the word BREAKING CHANGE: with a space or two newlines. The rest of the commit message is then used for this.  
+
+-   `!` or  `BREAKING CHANGE:` A code that introduces a breaking change
+-   `Closes #123`  or if there are multiple, `Closes #123, #456, #789`
 
 
 ### Reference
