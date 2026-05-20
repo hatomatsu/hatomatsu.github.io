@@ -7,4 +7,9 @@
 #+EXPORT_FILE_NAME: ../../abs/example.html
 
 
-[[../docs/example.pdf][../docs/example.pdf]]
+
+* Access Paper:
+- [[../pdf/example.pdf][View PDF]]
+
+
+

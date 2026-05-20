@@ -12,23 +12,23 @@
 - YouTube: [[https://www.youtube.com/channel/UCAPzKjekYs17jkNIqW0eqvw][はとまつ - YouTube]]
 
 
-** Structure
+** Repository Structure
 
 #+begin_src
   hatomatsu.github.io/
-├── index.html
+├── index.html                 # Created from index.org using org-export
 ├── assets/
 │   ├── css/
 │   └── images/
 │
-├── docs/                       # Downloadable files served on the site
-│   ├── cv.pdf
+├── pdf/                       # Downloadable files served on the site
+│   ├── example.pdf
 │   └── papers/
 │       └── paper1.pdf
 │
 ├── src/                        # Source files you edit
-│   ├── tex/
-│   ├── markdown/
+│   ├── tex/                    # store .tex files
+│   ├── markdown/               # store .md files
 │   ├── org/                    # Emacs org-mode files
 │   └── cpp/                    # C++ source code
 │       ├── project1/
@@ -50,6 +50,10 @@
 ├── scripts/
 │   └── build.sh
 │
-├── README.md
+│
+├── abs/
+│   └── example.html           # abstract page 
+│
+├── README.md                   # Created from README.org using org-export
 └── .gitignore
 #+end_src
