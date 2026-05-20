@@ -1,0 +1,82 @@
+#+TITLE: Contributing
+#+OPTIONS: toc:nil num:nil \n:t timestamp:nil 
+#+LANGUAGE: en
+#+EXPORT_FILE_NAME: ../../docs/CONTRIBUTING.md
+* Git Commit
+
+** Commit Message Guidelines
+
+*** Commit Message Format
+Each commit message consists of a header, a body and a footer. The header has a special format that includes a type, a scope and a subject:
+#+begin_src
+<type>(<scope>): <subject>
+<BLANK LINE>
+<body>
+<BLANK LINE>
+<footer>
+#+end_src
+The header is mandatory and the scope of the header is optional.
+
+*** Type
+
+- ~fix:~ A bug fix
+- ~feat:~ A new feature
+- ~!~ or  ~BREAKING CHANGE:~ A code that introduces a breaking change
+- ~test:~ Adding missing or correcting existing tests 
+- ~perf:~ A code change that improves performance
+- ~refactor:~ A code change that neither fixes a bug nor adds a feature
+- ~style:~ Changes that do not affect the meaning of the code (white-space, formatting, missing semic-colons, etc)
+
+*** Scope
+The scope should be the name of the npm package affected (as perceived by the person reading the changelog generated from commit messages.
+
+The following is the list of supported scopes:
+- animations
+- common
+- compiler
+- compiler-cli
+- core
+- elements
+- forms
+- http
+- language-service
+- platform-browser
+- platform-browser-dynamic
+- platform-webworker
+- platform-webworker-dynamic
+- router
+- service-worker
+- upgrade
+
+There are currently a few exceptions to the "use package name" rule:
+
+- packaging: used for changes that change the npm package layout in all of our packages, e.g. public path changes, package.json changes done to all packages, d.ts file/format changes, changes to bundles, etc.
+- changelog: used for updating the release notes in CHANGELOG.md
+- aio: used for docs-app (angular.io) related changes within the /aio directory of the repo
+- none/empty string: useful for style, test and refactor changes that are done across all packages (e.g. style: add missing semicolons)
+
+*** Subject
+The subject contains a succinct description of the change
+
+- use the imperative, present tense: "change" not "changed" nor "changes"
+- don't capitalize the first letter
+- no dot (.) at the end
+
+*** Body
+Just as in the subject, use the imperative, present tense: "change" not "changed" nor "changes".
+The body should include the motivation for the change and contrast this with previous behavior.
+
+*** Footer
+
+The footer should contain any information about Breaking Changes and is also the place to reference GitHub issues that this commit Closes.
+
+Breaking Changes should start with the word BREAKING CHANGE: with a space or two newlines. The rest of the commit message is then used for this.
+
+
+*** Reference
+See more information:
+1. https://www.conventionalcommits.org/en/v1.0.0/
+2. https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
+3. https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit?tab=t.0#heading=h.uyo6cb12dt6w
+
+ 
