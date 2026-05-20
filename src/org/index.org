@@ -9,9 +9,9 @@
 
 
 
-** Links
+*** Links
 
-[[https://x.com/hatomatzu][x.com]] / [[https://www.youtube.com/@hatomatsu][YouTube]] / [[https://github.com/hatomatsu][GitHub]]
+ [[https://x.com/hatomatzu][X.com]] / [[https://www.youtube.com/@hatomatsu][YouTube]] / [[https://github.com/hatomatsu][GitHub]] 
 
-** pdf
+*** pdf
 -  [[./abs/example.html][example]]  
