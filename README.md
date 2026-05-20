@@ -1,18 +1,18 @@
 
 # Table of Contents
 
--   [ABOUT](#orga8a5c0d)
-    -   [Links](#org110c330)
-    -   [Structure](#org989a90c)
+-   [ABOUT](#org8be1a01)
+    -   [Links](#org90521cf)
+    -   [Repository Structure](#orgcbff68d)
 
 
 
-<a id="orga8a5c0d"></a>
+<a id="org8be1a01"></a>
 
 # ABOUT
 
 
-<a id="org110c330"></a>
+<a id="org90521cf"></a>
 
 ## Links
 
@@ -21,24 +21,24 @@
 -   YouTube: [はとまつ - YouTube](https://www.youtube.com/channel/UCAPzKjekYs17jkNIqW0eqvw)
 
 
-<a id="org989a90c"></a>
+<a id="orgcbff68d"></a>
 
-## Structure
+## Repository Structure
 
       hatomatsu.github.io/
-    ├── index.html
+    ├── index.html                 # Created from index.org using org-export
     ├── assets/
     │   ├── css/
     │   └── images/
     │
-    ├── docs/                       # Downloadable files served on the site
-    │   ├── cv.pdf
+    ├── pdf/                       # Downloadable files served on the site
+    │   ├── example.pdf
     │   └── papers/
     │       └── paper1.pdf
     │
     ├── src/                        # Source files you edit
-    │   ├── tex/
-    │   ├── markdown/
+    │   ├── tex/                    # store .tex files
+    │   ├── markdown/               # store .md files
     │   ├── org/                    # Emacs org-mode files
     │   └── cpp/                    # C++ source code
     │       ├── project1/
@@ -60,6 +60,10 @@
     ├── scripts/
     │   └── build.sh
     │
-    ├── README.md
+    │
+    ├── abs/
+    │   └── example.html           # abstract page 
+    │
+    ├── README.md                   # Created from README.org using org-export
     └── .gitignore
 
