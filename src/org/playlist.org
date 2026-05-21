@@ -14,25 +14,33 @@
 
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
-- Glenn Gould: Beethoven & Liszt - Symphony No. 6 "Pastoral"
 - Glenn Gould: J.S. Bach - Goldberg Variations BWV 988 (1981)
+- Glenn Gould: Beethoven & Liszt - Symphony No. 6 "Pastoral"
+- Glenn Gould: Prokofieff - Piano Sonata No. 7 in B-flat major op. 83
 - Michael Nyman - Musique à grande vitesse
 ** Pop music
 
+- Adult Karate - Keep Watch
+- Alice Russell - Twin Peaks
 - Archive - Bullets
 - Daft Punk - One More Time / Aerodynamic (2007)
+- Daughter - Medicine
+- Dead Heart Bloom - New Messiah
 - George Ezra - Blame It On Me
 
 - Gary Jules - Mad World
 - James Blake - Retrograde
+- Jefferson Airplane - White Rabbit
+
 - Nine Inch Nails - The Hand That Feeds
-  
+- Rage Against The Machine - Wake Up 
 - UNKLE - Lawless
 ** J-pop
 
 - 田中美奈子 - 眠らない街
 - 下川みくに - それが、愛でしょう
-- 島谷ひとみ - WAKE YOU UP 
+- 島谷ひとみ - WAKE YOU UP
+- 相川七瀬 - Yumemiru..
 
 ** K-pop
 - Glen Check - 60's CARDIN
@@ -44,14 +52,30 @@
 
 ** Movie soundtracks
 
+*** Avalon
+- Kenji Kawai - Log in
+- Kenji Kawai - Log off
+
+*** Gattaca
+
+- Michael Nyman - The Departure
+
 *** TRON: Legacy
 
-- Daft Punk - Fall
 - Daft Punk - Derezzed
+- Daft Punk - Fall
 
 *** TRON: Ares
 
 - Nine Inch Nails - As Alive As You Need Me To Be
+
+*** The Matrix Reloaded
+
+- Juno Reactor - Mona Lisa Overdrive
+
+*** The Matrix Revolutions
+
+- Juno Reactor - Navras 
 
 ** Anime
 
@@ -67,8 +91,13 @@
   
 *** Ghost in the Shell: Stand Alone Complex
 
-- 菅野よう子 & Ilaria Graziano - i do
-- 菅野よう子 & Gabriela Robin - トルキア
+- Yoko Kanno
+  - Origa - Inner Universe
+  - Ilaria Graziano - where does this ocean go?
+  - Ilaria Graziano - i do
+  - Gabriela Robin - トルキア
+
+- HIDE - run rabbit junk
 
 *** One Piece
 - 田中公平 - ビンクスの酒
@@ -90,14 +119,20 @@
 ** Video game soundtracks
 
 *** Silent Hill
-- Akira Yamaoka & Mary Elizabeth McGlynn - Hell Frozen Rain
-- Akira Yamaoka & Mary Elizabeth McGlynn - One More Soul to the Call
 
+- Akira Yamaoka
+  - Mary Elizabeth McGlynn - Hell Frozen Rain
+  - Mary Elizabeth McGlynn - One More Soul to the Call
 
 *** Terraria
 
 - Calamity Mod - Left Alone, Theme of Brimstone Elemental
 - Calamity Mod Extra Tracks - Cold Front
+
+
+*** Call of Duty: Black Ops
+
+- Sean Murray - Eagle Claw, Pt. 1
 
 *** Call of Duty: Black Ops 3
 
