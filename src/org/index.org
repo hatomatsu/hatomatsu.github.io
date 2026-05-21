@@ -11,7 +11,15 @@
 
 *** Links
 
- [[https://x.com/hatomatzu][X.com]] / [[https://www.youtube.com/@hatomatsu][YouTube]] / [[https://github.com/hatomatsu][GitHub]] 
+ [[https://x.com/hatomatzu][X.com]] / [[https://www.youtube.com/@hatomatsu][YouTube]] 
 
+
+#+HTML: <hr>
+
+[[./contents/playlist.html][はとまつのプレイリスト - My Music Playlist]]
+
+#+HTML: <hr>
 *** pdf
 -  [[./abs/example.html][example]]  
+
+

@@ -1,0 +1,113 @@
+#+TITLE: PLAYLIST
+#+AUTHOR: Hatomatsu
+#+EMAIL: hatomatsu.github.io
+#+STARTUP: overview
+#+OPTIONS:   num:nil toc:2 \n:t
+#+OPTIONS: html-postamble:nil html-self-link-headlines:t
+#+LANGUAGE: en, jp
+#+EXPORT_FILE_NAME: ../../contents/playlist.html
+
+はとまつのプレイリストです。 This is a music playlist by Hatomatsu. 
+
+* Index
+** Classical music
+
+- Dmitry Masleev: Kapustin - Piano Concerto No. 2
+- Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
+- Glenn Gould: Beethoven & Liszt - Symphony No. 6 "Pastoral"
+- Glenn Gould: J.S. Bach - Goldberg Variations BWV 988 (1981)
+- Michael Nyman - Musique à grande vitesse
+** Pop music
+
+- Archive - Bullets
+- Daft Punk - One More Time / Aerodynamic (2007)
+- George Ezra - Blame It On Me
+
+- Gary Jules - Mad World
+- James Blake - Retrograde
+- Nine Inch Nails - The Hand That Feeds
+  
+- UNKLE - Lawless
+** J-pop
+
+- 田中美奈子 - 眠らない街
+- 下川みくに - それが、愛でしょう
+- 島谷ひとみ - WAKE YOU UP 
+
+** K-pop
+- Glen Check - 60's CARDIN
+
+** Italian
+
+- Andrea Bocelli - Puccini: Turandot, Act III: Nessun dorma!
+
+
+** Movie soundtracks
+
+*** TRON: Legacy
+
+- Daft Punk - Fall
+- Daft Punk - Derezzed
+
+*** TRON: Ares
+
+- Nine Inch Nails - As Alive As You Need Me To Be
+
+** Anime
+
+*** Patlabor OVA
+- 笠原弘子 - 未来派Lovers
+- Patlabor Soundtrack - Revolution
+- 佐々木菜摘, 真山惠衣, 玉川紗己子 - OH!Va・3ハリケーン
+
+*** Patlabor 2: The Movie
+
+- 川井憲次 - Wyvern
+
+  
+*** Ghost in the Shell: Stand Alone Complex
+
+- 菅野よう子 & Ilaria Graziano - i do
+- 菅野よう子 & Gabriela Robin - トルキア
+
+*** One Piece
+- 田中公平 - ビンクスの酒
+- The ROOTLESS - One day
+
+*** One Piece Film Z
+- Avril Lavigne - How You Remind Me
+
+*** Monogatari (series)
+
+- 神前暁 - 素敵滅法
+*** Naruto
+- いきものがかり - ブルーバード
+- FLOW - Sign
+- 秦基博 - 透明だった世界
+- NICO Touches The Walls - ニワカ雨ニモ負ケズ
+- KANA-BOON - シルエット
+  
+** Video game soundtracks
+
+*** Silent Hill
+- Akira Yamaoka & Mary Elizabeth McGlynn - Hell Frozen Rain
+- Akira Yamaoka & Mary Elizabeth McGlynn - One More Soul to the Call
+
+
+*** Terraria
+
+- Calamity Mod - Left Alone, Theme of Brimstone Elemental
+- Calamity Mod Extra Tracks - Cold Front
+
+*** Call of Duty: Black Ops 3
+
+- Jack Wall - I Live (Orchestral Version)
+- Jack Wall - Leviathan
+
+*** Call of Duty: Black Ops 7
+
+- Big Giant Circles - Adrenaline 2025
+
+** MISC
+
+
