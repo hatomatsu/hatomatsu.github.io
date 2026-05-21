@@ -5,7 +5,8 @@
 #+LANGUAGE: en
 #+EXPORT_FILE_NAME: ../../contents/playlist.html
 
-
+はとまつのプレイリストです。
+This is music playlist by Hatomatsu. 
 
 * Index
 ** Classical music
@@ -20,7 +21,11 @@
 - George Ezra - Blame It On Me
 - Glen Check - 60's CARDIN
 - Nine Inch Nails - The Hand That Feeds
-  
+** J-pop
+
+- 田中美奈子 - 眠らない街
+
+
 ** Video game soundtracks
 
 
