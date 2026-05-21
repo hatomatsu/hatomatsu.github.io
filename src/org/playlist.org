@@ -10,7 +10,7 @@
 はとまつのプレイリストです。 This is a music playlist by Hatomatsu. 
 
 * Index
-** Classical music
+** Classic
 
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
@@ -18,11 +18,18 @@
 - Glenn Gould: Beethoven & Liszt - Symphony No. 6 "Pastoral"
 - Glenn Gould: Prokofieff - Piano Sonata No. 7 in B-flat major op. 83
 - Michael Nyman - Musique à grande vitesse
+- Michael Nyman - Big My Secret
+- Michael Nyman - A la folie
+- Michael Nyman - Lamentation
+
+
 ** Pop music
 
 - Adult Karate - Keep Watch
 - Alice Russell - Twin Peaks
 - Archive - Bullets
+- Eminem - Won't Back Down (Ft. P!nk)
+- Eminem - Till I Collapse
 - Daft Punk - One More Time / Aerodynamic (2007)
 - Daughter - Medicine
 - Dead Heart Bloom - New Messiah
@@ -37,8 +44,6 @@
 - UNKLE - Lawless
 ** J-pop
 
-- 小松未歩 - 謎
-- B'z - 世界はあなたの色になる
 - MONKEY MAJIK - Around The World
 - 中田ヤスタカ - LIAR GAME
 - 中田ヤスタカ - Garden of Eden
@@ -51,6 +56,7 @@
 ** K-pop
 - Glen Check - 60's CARDIN
 
+
 ** Italian
 
 - Andrea Bocelli - Puccini: Turandot, Act III: Nessun dorma!
@@ -60,6 +66,7 @@
 
 - Julio Iglesias - La Mer (Live)
 - Yann Tiersen - Yann Tiersen
+
 
 ** Movie soundtracks
 
@@ -72,6 +79,9 @@
 - Michael Nyman - The Departure
 
 
+
+*** Hannibal
+- Vide Cor Meum
 
 *** TRON: Legacy
 
@@ -90,8 +100,22 @@
 
 - Juno Reactor - Navras 
 
+*** Spy Game (2001)
+
+- Harry Gregson-Williams - Muir Races to Work
+
+
 ** Anime
 
+*** 名探偵コナン
+- 小松未歩 - 謎
+- 伊織 - キミがいれば
+- 倉木麻衣 - きみと恋のままで終われない いつも夢のままじゃいられない
+- 倉木麻衣 - 渡月橋 ～君 想ふ～
+- B'z - 世界はあなたの色になる
+*** Phineas and Ferb
+- Phineas and Ferb - Busted
+- Phineas and Ferb - Ain't Got Rhythm
 *** Patlabor OVA
 - 笠原弘子 - 未来派Lovers
 - Patlabor Soundtrack - Revolution
@@ -109,6 +133,7 @@
   - Ilaria Graziano - where does this ocean go?
   - Ilaria Graziano - i do
   - Gabriela Robin - トルキア
+  - Ilaria Graziano - replica
 
 - HIDE - run rabbit junk
 
@@ -121,7 +146,20 @@
 
 *** Monogatari (series)
 
-- 神前暁 - 素敵滅法
+- 神前暁
+   - 素敵滅法
+
+
+
+- 千石撫子(花澤香菜) - 恋愛サーキュレーション
+
+- 阿良々木月火(井口裕香) - 白金ディスコ
+
+- 斧乃木余接(早見沙織) - オレンジミント
+
+- 忍野扇(水橋かおり) - decent black
+
+
 *** NARUTO 疾風伝
 - いきものがかり - ブルーバード
 - FLOW - Sign
@@ -130,6 +168,7 @@
 - KANA-BOON - シルエット
 *** NARUTO 疾風伝  the Movie: The Lost Tower
 - 西野カナ - if
+
 ** Video game soundtracks
 
 *** Silent Hill
@@ -158,6 +197,13 @@
 
 - Big Giant Circles - Adrenaline 2025
 
+*** Lego Builder's Journey
+
+Henrik Lindstrand - Campfire
+
+
 ** MISC
+
+- Nash - SC-1903
 
 
