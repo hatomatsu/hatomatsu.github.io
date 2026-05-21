@@ -40,6 +40,7 @@
 - Jefferson Airplane - White Rabbit
 - Karen O - Strange Love
 - Nine Inch Nails - The Hand That Feeds
+- Nico Vega - Beast
 - Rage Against The Machine - Wake Up 
 - UNKLE - Lawless
 ** J-pop
@@ -64,12 +65,15 @@
 
 ** Chanson
 
+- Bobby Darin - Beyond the Sea
 - Julio Iglesias - La Mer (Live)
-- Yann Tiersen - Yann Tiersen
+- The Andrews Sisters - Bei Mir Bist Du Schön
 
 
 ** Movie soundtracks
 
+*** Amélie
+- Yann Tiersen - Comptine d`un autre ete 
 *** Avalon
 - Kenji Kawai - Log in
 - Kenji Kawai - Log off
@@ -104,7 +108,22 @@
 
 - Harry Gregson-Williams - Muir Races to Work
 
+*** Mission: Impossible
 
+- Michael Giacchino - Kremlin With Anticipation
+
+  
+*** Up (Pixar)
+
+- Michael Giacchino - Married Life
+
+*** Toy Story (Pixar)
+
+- Randy Newman - You've Got a Friend in Me
+
+*** Wall-E (Pixar)
+
+- Put On Your Sunday Clothes
 ** Anime
 
 *** 名探偵コナン
@@ -176,6 +195,11 @@
 - Akira Yamaoka
   - Mary Elizabeth McGlynn - Hell Frozen Rain
   - Mary Elizabeth McGlynn - One More Soul to the Call
+
+*** BIOSHOCK
+
+- Bioshock Soundtrack - The Ocean on His Shoulders
+- Bioshock Soundtrack - Welcome to Rapture
 
 *** Terraria
 
