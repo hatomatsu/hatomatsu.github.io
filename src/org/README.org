@@ -5,6 +5,8 @@
 
 * ABOUT
 
+This is my personal repository. 
+
 ** Links
 
 - My homepage URL: https://hatomatsu.github.io/

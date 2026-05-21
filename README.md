@@ -1,18 +1,20 @@
 
 # Table of Contents
 
--   [ABOUT](#org3b0c42a)
-    -   [Links](#org5167add)
-    -   [Repository Structure](#org1ec4cd4)
+-   [ABOUT](#orgb7baa4e)
+    -   [Links](#org286bc3b)
+    -   [Repository Structure](#org487cecb)
 
 
 
-<a id="org3b0c42a"></a>
+<a id="orgb7baa4e"></a>
 
 # ABOUT
 
+This is my personal repository.  
 
-<a id="org5167add"></a>
+
+<a id="org286bc3b"></a>
 
 ## Links
 
@@ -21,7 +23,7 @@
 -   YouTube: [はとまつ - YouTube](https://www.youtube.com/channel/UCAPzKjekYs17jkNIqW0eqvw)
 
 
-<a id="org1ec4cd4"></a>
+<a id="org487cecb"></a>
 
 ## Repository Structure
 
