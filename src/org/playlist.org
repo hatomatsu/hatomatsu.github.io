@@ -6,6 +6,7 @@
 #+EXPORT_FILE_NAME: ../../contents/playlist.html
 
 
+
 * Index
 ** Classical music
 
@@ -30,6 +31,10 @@
 
 - Daft Punk - Fall
 - Daft Punk - Derezzed
+
+*** TRON: Ares
+
+- Nine Inch Nails - As Alive As You Need Me To Be
 
 *** One Piece Film Z
 - Avril Lavigne - How You Remind Me
