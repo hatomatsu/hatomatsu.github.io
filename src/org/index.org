@@ -15,7 +15,8 @@
 
 
 #+HTML: <hr>
-Music I usually listen to is [[./contents/playlist.html][here]].
+
+[[./contents/playlist.html][はとまつのプレイリスト - My Music Playlist]]
 
 #+HTML: <hr>
 *** pdf
