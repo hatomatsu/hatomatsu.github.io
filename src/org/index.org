@@ -13,5 +13,8 @@
 
  [[https://x.com/hatomatzu][X.com]] / [[https://www.youtube.com/@hatomatsu][YouTube]] / [[https://github.com/hatomatsu][GitHub]] 
 
+
+#+HTML: <hr>
+
 *** pdf
 -  [[./abs/example.html][example]]  
