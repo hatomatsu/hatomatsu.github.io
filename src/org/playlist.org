@@ -1,0 +1,37 @@
+#+TITLE: PLAYLIST
+#+STARTUP: overview
+#+OPTIONS:   num:nil toc:2 \n:t
+#+OPTIONS: html-postamble:nil html-self-link-headlines:t
+#+LANGUAGE: en
+#+EXPORT_FILE_NAME: ../../contents/playlist.html
+
+
+* Index
+** Classical music
+
+- Dmitry Masleev: Kapustin - Piano Concerto No. 2
+- Glenn Gould: Beethoven & Liszt - Symphony No. 6 "Pastoral"
+- Michael Nyman - Musique à grande vitesse
+** Pop music
+
+- Archive - Bullets
+- Daft Punk - One More Time / Aerodynamic (2007)
+- George Ezra - Blame It On Me
+- Glen Check - 60's CARDIN
+- Nine Inch Nails - The Hand That Feeds
+  
+** Video game soundtracks
+
+
+
+** Movie soundtracks
+
+*** TRON: Legacy
+
+- Daft Punk - Fall
+- Daft Punk - Derezzed
+
+*** One Piece Film Z
+- Avril Lavigne - How You Remind Me
+
+** Anime
