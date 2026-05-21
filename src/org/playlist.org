@@ -2,32 +2,42 @@
 #+STARTUP: overview
 #+OPTIONS:   num:nil toc:2 \n:t
 #+OPTIONS: html-postamble:nil html-self-link-headlines:t
-#+LANGUAGE: en
+#+LANGUAGE: en, jp
 #+EXPORT_FILE_NAME: ../../contents/playlist.html
 
 はとまつのプレイリストです。
-This is music playlist by Hatomatsu. 
+This is a music playlist by Hatomatsu. 
 
 * Index
 ** Classical music
 
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Glenn Gould: Beethoven & Liszt - Symphony No. 6 "Pastoral"
+- Glenn Gould: J.S. Bach - Goldberg Variations BWV 988 (1981)
 - Michael Nyman - Musique à grande vitesse
 ** Pop music
 
 - Archive - Bullets
 - Daft Punk - One More Time / Aerodynamic (2007)
 - George Ezra - Blame It On Me
-- Glen Check - 60's CARDIN
+
 - Nine Inch Nails - The Hand That Feeds
+  
+- UNKLE - Lawless
 ** J-pop
 
 - 田中美奈子 - 眠らない街
+- 下川みくに - それが、愛でしょう
+- 島谷ひとみ - WAKE YOU UP 
 
 
+** K-pop
+- Glen Check - 60's CARDIN
+  
 ** Video game soundtracks
 
+*** Silent Hill - Homecoming
+- Akira Yamaoka & Mary Elizabeth McGlynn - One More Soul to the Call
 
 
 ** Movie soundtracks
@@ -41,7 +51,30 @@ This is music playlist by Hatomatsu.
 
 - Nine Inch Nails - As Alive As You Need Me To Be
 
+** Anime
+
+*** Patlabor OVA
+- 笠原弘子 - 未来派Lovers
+
+  
+*** Patlabor 2: The Movie
+
+- 川井憲次 - Wyvern
+
+  
+*** One Piece
+- 田中公平 - ビンクスの酒
+- The ROOTLESS - One day
+
 *** One Piece Film Z
 - Avril Lavigne - How You Remind Me
 
-** Anime
+*** Monogatari (series)
+
+- 神前暁 - 素敵滅法
+*** Naruto
+- いきものがかり - ブルーバード
+- FLOW - Sign
+- 秦基博 - 透明だった世界
+- KANA-BOON - シルエット
+** MISC
