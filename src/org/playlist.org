@@ -1,4 +1,4 @@
-#+TITLE: PLAYLIST
+#+TITLE: はとまつ's Playlist
 #+AUTHOR: Hatomatsu
 #+EMAIL: hatomatsu.github.io
 #+STARTUP: overview
@@ -31,17 +31,23 @@
 - Gary Jules - Mad World
 - James Blake - Retrograde
 - Jefferson Airplane - White Rabbit
-
+- Karen O - Strange Love
 - Nine Inch Nails - The Hand That Feeds
 - Rage Against The Machine - Wake Up 
 - UNKLE - Lawless
 ** J-pop
 
+- 小松未歩 - 謎
+- B'z - 世界はあなたの色になる
+- MONKEY MAJIK - Around The World
+- 中田ヤスタカ - LIAR GAME
+- 中田ヤスタカ - Garden of Eden
+- 福山雅治 - Vs. 知覚と快楽の螺旋 
 - 田中美奈子 - 眠らない街
 - 下川みくに - それが、愛でしょう
 - 島谷ひとみ - WAKE YOU UP
 - 相川七瀬 - Yumemiru..
-
+- edda - フラワーステップ
 ** K-pop
 - Glen Check - 60's CARDIN
 
@@ -49,6 +55,11 @@
 
 - Andrea Bocelli - Puccini: Turandot, Act III: Nessun dorma!
 
+
+** Chanson
+
+- Julio Iglesias - La Mer (Live)
+- Yann Tiersen - Yann Tiersen
 
 ** Movie soundtracks
 
@@ -59,6 +70,8 @@
 *** Gattaca
 
 - Michael Nyman - The Departure
+
+
 
 *** TRON: Legacy
 
@@ -109,13 +122,14 @@
 *** Monogatari (series)
 
 - 神前暁 - 素敵滅法
-*** Naruto
+*** NARUTO 疾風伝
 - いきものがかり - ブルーバード
 - FLOW - Sign
 - 秦基博 - 透明だった世界
 - NICO Touches The Walls - ニワカ雨ニモ負ケズ
 - KANA-BOON - シルエット
-  
+*** NARUTO 疾風伝  the Movie: The Lost Tower
+- 西野カナ - if
 ** Video game soundtracks
 
 *** Silent Hill
@@ -126,6 +140,7 @@
 
 *** Terraria
 
+- Calamity Mod - Raw, Unfiltered Calamity,  Theme of Calamitas
 - Calamity Mod - Left Alone, Theme of Brimstone Elemental
 - Calamity Mod Extra Tracks - Cold Front
 
