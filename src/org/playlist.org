@@ -17,7 +17,9 @@
 - Glenn Gould: Beethoven & Liszt - Symphony No. 6 "Pastoral"
 - Glenn Gould: J.S. Bach - The Well-Tempered Clavier
 - Glenn Gould: J.S. Bach - Toccatas
+- Glenn Gould: Chopin Piano Sonata No. 3 in B minor Op.58
 - Glenn Gould: Prokofieff - Piano Sonata No. 7 in B-flat major op. 83
+- Glenn Gould: Scriabin Sonata 3
 - Erik Satie - Gymnopédie No.1
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
@@ -148,6 +150,10 @@
 
 
 
+*** ゴジラ（1954）
+
+- 伊福部昭 - メインタイトル (M2+M1)
+
 *** Hannibal
 - Patrick Cassidy - Vide Cor Meum
 
@@ -191,6 +197,12 @@
 *** Mission: Impossible: Ghost Protocol
 
 - Michael Giacchino - Kremlin With Anticipation
+
+*** John Wick
+- Kaleida - think
+- Le Castle Vania - John Wick Mode
+- Le Castle Vania - Shots Fired
+- Nostalghia, Tyler Bates, Joel J. Richard - Plastic Heart
 
 *** Harry Potter & The Deathly Hallows
 - Nick Cave & The Bad Seeds - O Children
@@ -391,6 +403,7 @@
 
 - Big Giant Circles - Adrenaline 2025
 - Brian Tuey - Pareidolia (Astra Malorum Mix)
+- Tori Letzler - NGC 246
 
 *** Ghost in the Shell (PS1)
 
@@ -399,7 +412,7 @@
 *** Resident Evil 9 Requiem
 
 - Resident Evil 9 Requiem - Main Menu Theme
-- Resident Evil 9 Requiem - Recurring Nightmare
+- Nao Sato - Recurring Nightmare
 *** Lego Builder's Journey
 
 - Henrik Lindstrand - Campfire
