@@ -12,12 +12,13 @@
 * Index
 ** Classic
 
-- Jascha Heifetz: J.S. Bach - Chaconne
-- Glenn Gould: J.S. Bach - Goldberg Variations BWV 988 (1981)
+- *Jascha Heifetz: J.S. Bach - Chaconne*
+- *Glenn Gould: J.S. Bach - Goldberg Variations BWV 988 (1981)*
 - Glenn Gould: Beethoven & Liszt - Symphony No. 6 "Pastoral"
 - Glenn Gould: J.S. Bach - The Well-Tempered Clavier
 - Glenn Gould: J.S. Bach - Toccatas
 - Glenn Gould: Prokofieff - Piano Sonata No. 7 in B-flat major op. 83
+- Erik Satie - Gymnopédie No.1
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
 - Antonio Vivaldi - Winter 
@@ -43,18 +44,20 @@
 - Alan Walker - Faded
 - Andra Day - Rise Up 
 - Adult Karate - Keep Watch
+- Ace of Base - All That She Wants
 - Alice Russell - Twin Peaks
 - Archive - Bullets
 - Avicii - Waiting For Love 
 - Battle Tapes - Last Resort and Spa
 - Bob Dylan - Knockin' On Heaven's Door
 - Crystal Fighters - Wild Ones
+- Daughter - Candles
 - Eminem - Won't Back Down (Ft. P!nk)
 - Eminem - Till I Collapse
 - Electric President - Safe and Sound
 - Fink - Warm Shadow
 - Fink - Pilgrim
-- Daft Punk - One More Time / Aerodynamic (2007)
+- *Daft Punk - One More Time / Aerodynamic (2007)*
 - George Ezra - Blame It On Me
 - Gary Jules - Mad World
 - James Blake - Retrograde
@@ -69,11 +72,13 @@
 - Nico Vega - Beast
   
 - Robots Don`t Sleep - Trouble
+- Rush - Tom Sawyer
 - Saint Motel - My Type
 - Survivor - Eye Of The Tiger
 
 - Sly Silver, Werner Tautz, Gisela Zimber - Zoot Camp
 
+- The Lumineers - Ho Hey
 - TV on the Radio - DLZ
 - UNKLE - Lawless
 - Veela & Blackmill - Let It Be (feat. Veela)
@@ -84,12 +89,15 @@
  
 ** Electronic Pop 
 
-- TheFatRat - Unity
+- *TheFatRat - Unity*
 - TheFatRat - Monody (feat. Laura Brehm)
 - Marshmello - Alone
+- Waysons - Daydream
 - Cartoon, Jéja - Immortality (feat. Kristel Aaslaid)
 - Cartoon, Jéja - On & On (feat. Daniel Levi)
-- Janji - Heroes Tonight (feat. Johnning) 
+- Janji - Heroes Tonight (feat. Johnning)
+- Tristam & Braken - Flight
+- Notion, Chrystal - The Days
 
 ** J-pop
 
@@ -125,7 +133,7 @@
 
 - Colin Stetson - Among The Sef (Righteous II)
 - The Caretaker - Everywhere At The End Of Time
-
+- Frank Crumit - Stumbling (1922)
 ** Movie soundtracks
 
 *** Amélie
@@ -158,7 +166,9 @@
 
 *** The Matrix Reloaded
 
-- Juno Reactor - Mona Lisa Overdrive
+- Rob Dougan - Furious Angels
+- *Juno Reactor - Mona Lisa Overdrive*
+- Rob Dougan - Chateau
 
 *** The Matrix Revolutions
 
@@ -178,7 +188,7 @@
 - JUNIP - Far Away
 - Elton John - Rocket Man
 
-*** Mission: Impossible
+*** Mission: Impossible: Ghost Protocol
 
 - Michael Giacchino - Kremlin With Anticipation
 
@@ -200,6 +210,7 @@
 
 *** Person of Interest
 - The xx - Intro
+- Ramin Djawadi - God Mode
 - Ramin Djawadi - Samaritan
 - Jetta - I'd Love to Change the World
 - Daughter - Medicine
@@ -235,11 +246,12 @@
 ** Anime
 *** ARIA
 - ROUND TABLE featuring Nino - Rainbow
+- 牧野由依 - シンフォニー
 - 牧野由依 - 横顔
 
 *** 名探偵コナン
-- 小松未歩 - 謎
-- 伊織 - キミがいれば
+- *小松未歩 - 謎*
+- *伊織 - キミがいれば*
 - 倉木麻衣 - きみと恋のままで終われない いつも夢のままじゃいられない
 - 倉木麻衣 - 渡月橋 ～君 想ふ～
 - B'z - 世界はあなたの色になる
@@ -247,16 +259,18 @@
 *** Ghost in the Shell: Stand Alone Complex
 
 - Yoko Kanno
-  - Origa - Inner Universe
+  - *Origa - Inner Universe*
   - Origa - Rise
   - Ilaria Graziano - where does this ocean go?
   - Ilaria Graziano - i do
   - Gabriela Robin - トルキア
+  - Gabriela Robin - サイバーバード
   - Ilaria Graziano - replica
 
 - HIDE - run rabbit junk
 
-*** Monogatari (series)
+
+*** 〈物語〉シリーズ
 
 
 - 千石撫子(花澤香菜) - 恋愛サーキュレーション
@@ -277,6 +291,7 @@
 - 秦基博 - 透明だった世界
 - NICO Touches The Walls - ニワカ雨ニモ負ケズ
 - KANA-BOON - シルエット
+
 *** NARUTO 疾風伝  the Movie: The Lost Tower
 - 西野カナ - if
 
@@ -293,15 +308,16 @@
 *** Phineas and Ferb
 - Phineas and Ferb - Busted
 - Phineas and Ferb - Ain't Got Rhythm
+- Phineas and Ferb - I'm Lindana and I Wanna Have Fun!
 *** Patlabor OVA
 - 笠原弘子 - 未来派Lovers
 - Patlabor Soundtrack - Revolution
 - 佐々木菜摘, 真山惠衣, 玉川紗己子 - OH!Va・3ハリケーン
-
+- 川井憲次 - LOVE LIKE OURS
 *** Patlabor 2: The Movie
 
 - 川井憲次 - Wyvern
-
+- *川井憲次 - Hallucination*
 
 
 *** Initial D
@@ -331,6 +347,7 @@
 ** Video game soundtracks
 
 
+
 *** BIOSHOCK
 
 - Bioshock Soundtrack - The Ocean on His Shoulders
@@ -338,6 +355,8 @@
 
 
 
+*** Call of Duty: Modern Warfare 2
+- Hans Zimmer, Lorne Balfe - Intro Theme
 *** Call of Duty: Black Ops
 
 - Sean Murray - Deviant
@@ -369,7 +388,14 @@
 - Big Giant Circles - Adrenaline 2025
 - Brian Tuey - Pareidolia (Astra Malorum Mix)
 
+*** Ghost in the Shell (PS1)
 
+- 石野卓球 - Ghost In The Shell
+
+*** Resident Evil 9 Requiem
+
+- Resident Evil 9 Requiem - Main Menu Theme
+- Resident Evil 9 Requiem - Recurring Nightmare
 *** Lego Builder's Journey
 
 - Henrik Lindstrand - Campfire
@@ -381,15 +407,36 @@
   - Mary Elizabeth McGlynn - Hell Frozen Rain
   - Mary Elizabeth McGlynn - One More Soul to the Call
 
+*** Minecraft
+
+- C418 - Sweden
+
 *** Terraria
 
+- Otherworld: Postlude, Credits
 - Calamity Mod - Raw, Unfiltered Calamity,  Theme of Calamitas
 - Calamity Mod - Left Alone, Theme of Brimstone Elemental
 - Calamity Mod Extra Tracks - Cold Front
 
+*** Kirby: Super Star
+- Kirby: Super Star - Gourmet Race
+
+*** Wii
+
+- Kazumi Totaka - Mii Plaza Theme
+
+*** Mario Cart Wii
+
+- Mario Kart Wii Music - Coconut Mall 
 
 
 
+*** Splatoon
+
+- Splatoon - Calamari Inkantation
+
+*** Super Mario Odyssey
+- Super Mario Odyssey - Jump Up, Super Star! 
 
 *** はつゆきさくら
 - 水月陵
