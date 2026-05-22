@@ -7,38 +7,92 @@
 #+LANGUAGE: en, jp
 #+EXPORT_FILE_NAME: ../../contents/playlist.html
 
-はとまつのプレイリストです。 This is a music playlist by Hatomatsu. 
+はとまつのプレイリストです（葬式で流してください）。 This is a playlist by Hatomatsu (play this at my funeral). 
 
 * Index
-** Classical music
+** Classic
 
-- Dmitry Masleev: Kapustin - Piano Concerto No. 2
-- Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
+- Jascha Heifetz: J.S. Bach - Chaconne
 - Glenn Gould: J.S. Bach - Goldberg Variations BWV 988 (1981)
 - Glenn Gould: Beethoven & Liszt - Symphony No. 6 "Pastoral"
+- Glenn Gould: J.S. Bach - The Well-Tempered Clavier
+- Glenn Gould: J.S. Bach - Toccatas
 - Glenn Gould: Prokofieff - Piano Sonata No. 7 in B-flat major op. 83
+- Dmitry Masleev: Kapustin - Piano Concerto No. 2
+- Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
+- Antonio Vivaldi - Winter 
+- Edvard Grieg - In the Hall of the Mountain King
+- Ravel - Le Tombeau de Couperin, orchestration complète
+- Andrea González Caballero - Prelude BWV 1006a (2017)
 - Michael Nyman - Musique à grande vitesse
+- Michael Nyman - Big My Secret
+- Michael Nyman - A la folie
+- Michael Nyman - Lamentation
+- Alberto Iglesias - Me voy a morir de amor
+- Estas Tonne - The Song of the Golden Dragon
+- Estas Tonne - Cuban Dance
+
+  
+
+
 ** Pop music
 
+- Ace Frehley - New York Groove
+- adore - did i tell u that i miss u
+- Alan Walker - Spectre
+- Alan Walker - Faded
+- Andra Day - Rise Up 
 - Adult Karate - Keep Watch
 - Alice Russell - Twin Peaks
 - Archive - Bullets
+- Avicii - Waiting For Love 
+- Battle Tapes - Last Resort and Spa
+- Bob Dylan - Knockin' On Heaven's Door
+- Crystal Fighters - Wild Ones
+- Eminem - Won't Back Down (Ft. P!nk)
+- Eminem - Till I Collapse
+- Electric President - Safe and Sound
+- Fink - Warm Shadow
+- Fink - Pilgrim
 - Daft Punk - One More Time / Aerodynamic (2007)
-- Daughter - Medicine
-- Dead Heart Bloom - New Messiah
 - George Ezra - Blame It On Me
-
 - Gary Jules - Mad World
 - James Blake - Retrograde
+- Autograf - Nobody Knows (feat. WYNNE)
 - Jefferson Airplane - White Rabbit
+- Jim Croce - Time in a Bottle
+- New Order - Blue Monday
+  - HEALTH - Blue Monday
 - Karen O - Strange Love
+- Kungs vs Cookin’ on 3 Burners - This Girl
 - Nine Inch Nails - The Hand That Feeds
-- Rage Against The Machine - Wake Up 
+- Nico Vega - Beast
+  
+- Robots Don`t Sleep - Trouble
+- Saint Motel - My Type
+- Survivor - Eye Of The Tiger
+
+- Sly Silver, Werner Tautz, Gisela Zimber - Zoot Camp
+
+- TV on the Radio - DLZ
 - UNKLE - Lawless
+- Veela & Blackmill - Let It Be (feat. Veela)
+- Vision Vision - Hard Times
+- X Ambassadors, Jamie N Commons - Jungle
+- Yelawolf - Till It's Gone
+
+ 
+** Electronic Pop 
+
+- TheFatRat - Unity
+- TheFatRat - Monody (feat. Laura Brehm)
+- Marshmello - Alone
+- Cartoon, Jéja - Immortality (feat. Kristel Aaslaid)
+- Cartoon, Jéja - On & On (feat. Daniel Levi)
+- Janji - Heroes Tonight (feat. Johnning) 
+
 ** J-pop
 
-- 小松未歩 - 謎
-- B'z - 世界はあなたの色になる
 - MONKEY MAJIK - Around The World
 - 中田ヤスタカ - LIAR GAME
 - 中田ヤスタカ - Garden of Eden
@@ -48,8 +102,10 @@
 - 島谷ひとみ - WAKE YOU UP
 - 相川七瀬 - Yumemiru..
 - edda - フラワーステップ
+- HⅡH - feels like 'HEAVEN'
 ** K-pop
 - Glen Check - 60's CARDIN
+
 
 ** Italian
 
@@ -58,11 +114,22 @@
 
 ** Chanson
 
+- Al Bowlly -  Midnight, The Stars and You
+- Al Bowlly - Heartaches
+- Bobby Darin - Beyond the Sea
 - Julio Iglesias - La Mer (Live)
-- Yann Tiersen - Yann Tiersen
+- The Andrews Sisters - Bei Mir Bist Du Schön
+
+
+** Horror Music
+
+- Colin Stetson - Among The Sef (Righteous II)
+- The Caretaker - Everywhere At The End Of Time
 
 ** Movie soundtracks
 
+*** Amélie
+- Yann Tiersen - Comptine d`un autre ete 
 *** Avalon
 - Kenji Kawai - Log in
 - Kenji Kawai - Log off
@@ -73,6 +140,9 @@
 
 
 
+*** Hannibal
+- Patrick Cassidy - Vide Cor Meum
+
 *** TRON: Legacy
 
 - Daft Punk - Derezzed
@@ -82,6 +152,10 @@
 
 - Nine Inch Nails - As Alive As You Need Me To Be
 
+*** The Matrix
+
+- Rage Against The Machine - Wake Up 
+
 *** The Matrix Reloaded
 
 - Juno Reactor - Mona Lisa Overdrive
@@ -90,8 +164,135 @@
 
 - Juno Reactor - Navras 
 
-** Anime
+*** Spy Game (2001)
 
+- Harry Gregson-Williams - Muir Races to Work
+- Harry Gregson-Williams - "You're Going To Miss It"
+- Harry Gregson-Williams - Operation Dinner Out
+
+*** The Secret Life Of Walter Mitty (2013)
+
+- Of Monsters and Men - Dirty Paws
+- José Gonzalez - Step Out
+- José González - Stay Alive
+- JUNIP - Far Away
+- Elton John - Rocket Man
+
+*** Mission: Impossible
+
+- Michael Giacchino - Kremlin With Anticipation
+
+*** Harry Potter & The Deathly Hallows
+- Nick Cave & The Bad Seeds - O Children
+*** Up (Pixar)
+
+- Michael Giacchino - Married Life
+
+*** Toy Story (Pixar)
+
+- Randy Newman - You've Got a Friend in Me
+
+*** Wall-E (Pixar)
+
+- Put On Your Sunday Clothes
+
+** TV Show soundtracks
+
+*** Person of Interest
+- The xx - Intro
+- Ramin Djawadi - Samaritan
+- Jetta - I'd Love to Change the World
+- Daughter - Medicine
+
+*** House MD
+
+- Massive Attack - Teardrop
+
+*** Black Forceps (2018)
+
+- 木村秀彬 - ブラックペアン Main Theme
+*** Terminator: The Sarah Connor Chronicles
+- Bear McCreary - Terminator: The Sarah Connor Chronicles (Opening Title)
+- Bear McCreary - Sarah Connor's Theme
+- Bear McCreary - Central America
+- Bear McCreary - Perfect Creatures
+- Bear McCreary - Terminator: The Sarah Connor Chronicles (End Credits)
+
+- Dead Heart Bloom - New Messiah
+
+*** Star Wars: Clone Wars
+
+- Video Helper - I Am the Vortex
+- Kevin Kiner - Ahsoka Leaves
+
+
+
+*** ケイゾク
+- 中谷美紀 - クロニック・ラヴ
+*** SPEC
+- 追憶の歌 Solvents&orbits remix
+
+** Anime
+*** ARIA
+- ROUND TABLE featuring Nino - Rainbow
+- 牧野由依 - 横顔
+
+*** 名探偵コナン
+- 小松未歩 - 謎
+- 伊織 - キミがいれば
+- 倉木麻衣 - きみと恋のままで終われない いつも夢のままじゃいられない
+- 倉木麻衣 - 渡月橋 ～君 想ふ～
+- B'z - 世界はあなたの色になる
+  
+*** Ghost in the Shell: Stand Alone Complex
+
+- Yoko Kanno
+  - Origa - Inner Universe
+  - Origa - Rise
+  - Ilaria Graziano - where does this ocean go?
+  - Ilaria Graziano - i do
+  - Gabriela Robin - トルキア
+  - Ilaria Graziano - replica
+
+- HIDE - run rabbit junk
+
+*** Monogatari (series)
+
+
+- 千石撫子(花澤香菜) - 恋愛サーキュレーション
+
+- 阿良々木月火(井口裕香) - 白金ディスコ
+
+- 斧乃木余接(早見沙織) - オレンジミント
+
+- 忍野扇(水橋かおり) - decent black
+
+- 神前暁 (Satoru Kousaki)
+   - 素敵滅法
+   - Bad Bully
+
+*** NARUTO 疾風伝
+- いきものがかり - ブルーバード
+- FLOW - Sign
+- 秦基博 - 透明だった世界
+- NICO Touches The Walls - ニワカ雨ニモ負ケズ
+- KANA-BOON - シルエット
+*** NARUTO 疾風伝  the Movie: The Lost Tower
+- 西野カナ - if
+
+
+*** One Piece
+- 田中公平 - ビンクスの酒
+- The ROOTLESS - One day
+
+*** One Piece Film Z
+- Avril Lavigne - How You Remind Me
+
+
+
+*** Phineas and Ferb
+- Phineas and Ferb - Busted
+- Phineas and Ferb - Ain't Got Rhythm
 *** Patlabor OVA
 - 笠原弘子 - 未来派Lovers
 - Patlabor Soundtrack - Revolution
@@ -101,36 +302,74 @@
 
 - 川井憲次 - Wyvern
 
-  
-*** Ghost in the Shell: Stand Alone Complex
 
-- Yoko Kanno
-  - Origa - Inner Universe
-  - Ilaria Graziano - where does this ocean go?
-  - Ilaria Graziano - i do
-  - Gabriela Robin - トルキア
 
-- HIDE - run rabbit junk
+*** Initial D
 
-*** One Piece
-- 田中公平 - ビンクスの酒
-- The ROOTLESS - One day
+- Sara - Burning Up For You
+- Elisa - Lost Into The Night
+- m.o.v.e - Rage your dream
+- m.o.v.e - around the world
+  - around the world (藤原拓海＆茂木なつき ver)
+- Leslie Parrish - Save Me
+- Leslie Parrish - Remember Me
+- Manuel - Gas Gas Gas
 
-*** One Piece Film Z
-- Avril Lavigne - How You Remind Me
+- Wain L - Make Up Your Mind
 
-*** Monogatari (series)
+- Ken Blast - The Top
 
-- 神前暁 - 素敵滅法
-*** NARUTO 疾風伝
-- いきものがかり - ブルーバード
-- FLOW - Sign
-- 秦基博 - 透明だった世界
-- NICO Touches The Walls - ニワカ雨ニモ負ケズ
-- KANA-BOON - シルエット
-*** NARUTO 疾風伝  the Movie: The Lost Tower
-- 西野カナ - if
+- Max Coveri - Running In The 90s
+
+- Dave Rodgers - Deja Vu
+
+
 ** Video game soundtracks
+
+
+*** BIOSHOCK
+
+- Bioshock Soundtrack - The Ocean on His Shoulders
+- Bioshock Soundtrack - Welcome to Rapture
+
+
+
+*** Call of Duty: Black Ops
+
+- Sean Murray - Deviant
+- Sean Murray - Eagle Claw, Pt. 1
+- Sean Murray - Mac-V
+- Sean Murray - Epilogue
+
+*** Call of Duty: Black Ops 2
+
+- Jack Wall - Adrenaline
+
+*** Call of Duty: Black Ops 3
+
+
+- Jack Wall - Ignition
+- Jack Wall - I Live (Orchestral Version)
+- Jack Wall - New World / From the Brink of Death
+- Jack Wall - The 54 Immortals
+- Jack Wall - Lotus Towers
+- Jack Wall - Leviathan
+
+*** Call of Duty: Cold War
+
+- Jack Wall - Cold War
+- Billy Squier - The Stroke
+
+*** Call of Duty: Black Ops 7
+
+- Big Giant Circles - Adrenaline 2025
+- Brian Tuey - Pareidolia (Astra Malorum Mix)
+
+
+*** Lego Builder's Journey
+
+- Henrik Lindstrand - Campfire
+
 
 *** Silent Hill
 
@@ -145,19 +384,21 @@
 - Calamity Mod Extra Tracks - Cold Front
 
 
-*** Call of Duty: Black Ops
 
-- Sean Murray - Eagle Claw, Pt. 1
 
-*** Call of Duty: Black Ops 3
 
-- Jack Wall - I Live (Orchestral Version)
-- Jack Wall - Leviathan
+*** はつゆきさくら
+- 水月陵
+  - はつゆきさくら - まーるいしっぽ
 
-*** Call of Duty: Black Ops 7
 
-- Big Giant Circles - Adrenaline 2025
+
+
+
+
 
 ** MISC
+
+- Nash - SC-1903
 
 
