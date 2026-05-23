@@ -20,6 +20,7 @@
 - Glenn Gould: Chopin Piano Sonata No. 3 in B minor Op.58
 - Glenn Gould: Prokofieff - Piano Sonata No. 7 in B-flat major op. 83
 - Glenn Gould: Scriabin Sonata 3
+- Arturo Benedetti Michelangeli - Piano Sonata No. 5 in C Major: I. Andante (Live) 
 - Erik Satie - Gymnopédie No.1
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
@@ -36,9 +37,12 @@
 - Estas Tonne - Cuban Dance
 - Ode to Joy
 - Karajan: Tchaikovsky - Symphony 6 - Movement 3
+- Vladimir Ashkenazy, Rachmaninoff- Piano Concerto No. 3 in D Minor, Op. 30
   
 
 
+** Jazz
+- Charlie Parker - Jam Session
 ** Pop music
 
 - Ace Frehley - New York Groove
@@ -94,6 +98,16 @@
 - Tally Hall - Good Day
 
 - Alexi Murdoch - All My Days
+
+- Michael Jackson - Heal The World
+
+- Rob Dougan - Nothing at all
+
+- Lisa Miskovsky - Still alive
+
+- Belief - Watchu Want (feat. Karniege) 
+
+- Fugees - Ready Or Not
 
 ** Electronic Pop 
 
@@ -227,6 +241,16 @@
 
 *** Harry Potter & The Deathly Hallows
 - Nick Cave & The Bad Seeds - O Children
+
+*** コクリコ坂から
+
+- 手嶌葵 - 朝ごはんの歌
+- 坂本九 - 上を向いて歩こう 
+
+*** HTTYD 2
+
+- Jónsi - Where No One Goes
+
 *** Up (Pixar)
 
 - Michael Giacchino - Married Life
@@ -263,6 +287,8 @@
 - Bear McCreary - Terminator: The Sarah Connor Chronicles (End Credits)
 
 - Dead Heart Bloom - New Messiah
+
+- Shirley Manson - Samson and Deliah
 
 *** Star Wars: Clone Wars
 
@@ -483,6 +509,7 @@ eurobeat
 
 *** Terraria
 
+- Terraria Music - Underground Ice
 - Otherworld: Postlude, Credits
 - Calamity Mod - Raw, Unfiltered Calamity,  Theme of Calamitas
 - Calamity Mod - Left Alone, Theme of Brimstone Elemental
