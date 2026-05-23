@@ -20,6 +20,7 @@
 - Glenn Gould: Chopin Piano Sonata No. 3 in B minor Op.58
 - Glenn Gould: Prokofieff - Piano Sonata No. 7 in B-flat major op. 83
 - Glenn Gould: Scriabin Sonata 3
+- Arturo Benedetti Michelangeli - Piano Sonata No. 5 in C Major: I. Andante (Live) 
 - Erik Satie - Gymnopédie No.1
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
@@ -34,10 +35,14 @@
 - Alberto Iglesias - Me voy a morir de amor
 - Estas Tonne - The Song of the Golden Dragon
 - Estas Tonne - Cuban Dance
-
+- Ode to Joy
+- Karajan: Tchaikovsky - Symphony 6 - Movement 3
+- Vladimir Ashkenazy, Rachmaninoff- Piano Concerto No. 3 in D Minor, Op. 30
   
 
 
+** Jazz
+- Charlie Parker - Jam Session
 ** Pop music
 
 - Ace Frehley - New York Groove
@@ -88,7 +93,22 @@
 - X Ambassadors, Jamie N Commons - Jungle
 - Yelawolf - Till It's Gone
 
- 
+- Richard Cottle, Chris Thompson - I'm Flying High
+
+- Tally Hall - Good Day
+
+- Alexi Murdoch - All My Days
+
+- Michael Jackson - Heal The World
+
+- Rob Dougan - Nothing at all
+
+- Lisa Miskovsky - Still alive
+
+- Belief - Watchu Want (feat. Karniege) 
+
+- Fugees - Ready Or Not
+
 ** Electronic Pop 
 
 - *TheFatRat - Unity*
@@ -100,6 +120,8 @@
 - Janji - Heroes Tonight (feat. Johnning)
 - Tristam & Braken - Flight
 - Notion, Chrystal - The Days
+- Koven x ROY KNOX - About Me
+- Aero Chord feat. DDARK - Shootin Stars
 
 ** J-pop
 
@@ -108,11 +130,21 @@
 - 中田ヤスタカ - Garden of Eden
 - 福山雅治 - Vs. 知覚と快楽の螺旋 
 - 田中美奈子 - 眠らない街
+- 吉川晃司 - モニカ
+- 布袋寅泰 - 新・仁義なき戦い
 - 下川みくに - それが、愛でしょう
 - 島谷ひとみ - WAKE YOU UP
 - 相川七瀬 - Yumemiru..
 - edda - フラワーステップ
 - HⅡH - feels like 'HEAVEN'
+- PANDORA feat.Beverly - Be The One
+- くるり - ばらの花
+- toe - エソテリック
+
+** Moe
+
+- しぐれうい - 粛聖!! ロリ神レクイエム☆ 
+
 ** K-pop
 - Glen Check - 60's CARDIN
 
@@ -131,10 +163,12 @@
 - The Andrews Sisters - Bei Mir Bist Du Schön
 
 
+
 ** Horror Music
 
 - Colin Stetson - Among The Sef (Righteous II)
 - The Caretaker - Everywhere At The End Of Time
+- Twisted Nerve - Bernard Herrmann
 - Frank Crumit - Stumbling (1922)
 ** Movie soundtracks
 
@@ -159,6 +193,9 @@
 
 *** Hannibal
 - Patrick Cassidy - Vide Cor Meum
+
+*** The Terminator
+- Tech Noir
 
 *** TRON: Legacy
 
@@ -209,6 +246,16 @@
 
 *** Harry Potter & The Deathly Hallows
 - Nick Cave & The Bad Seeds - O Children
+
+*** コクリコ坂から
+
+- 手嶌葵 - 朝ごはんの歌
+- 坂本九 - 上を向いて歩こう 
+
+*** HTTYD 2
+
+- Jónsi - Where No One Goes
+
 *** Up (Pixar)
 
 - Michael Giacchino - Married Life
@@ -246,18 +293,30 @@
 
 - Dead Heart Bloom - New Messiah
 
+- Shirley Manson - Samson and Deliah
+
 *** Star Wars: Clone Wars
 
 - Video Helper - I Am the Vortex
 - Kevin Kiner - Ahsoka Leaves
+- VideoHelper - Concussive (MAIN) 
 
 
+
+*** Sherlock Holmes
+
+- Patrick Gowers - 221B Baker Street (Opening Theme)
+
+*** House of Cards (Netflix)
+
+- House of Cards - Main Theme
 
 *** ケイゾク
 - 中谷美紀 - クロニック・ラヴ
 *** SPEC
 - 追憶の歌 Solvents&orbits remix
-
+- THE RICECOOKERS - 波のゆくさき
+- Keiichiro Shibuya - SPEC theme (strings version) 
 ** Anime
 *** ARIA
 - ROUND TABLE featuring Nino - Rainbow
@@ -271,6 +330,17 @@
 - 倉木麻衣 - 渡月橋 ～君 想ふ～
 - B'z - 世界はあなたの色になる
   
+*** 妖怪人間ベム
+- ハニー・ナイツ - 妖怪人間ベム 
+
+*** らき☆すた
+
+- 畑亜貴, 神前暁 - もってけ！セーラーふく
+
+
+*** 呪術廻戦
+- 自閉円頓裹
+
 *** Ghost in the Shell: Stand Alone Complex
 
 - Yoko Kanno
@@ -330,6 +400,12 @@
 - Phineas and Ferb - Busted
 - Phineas and Ferb - Ain't Got Rhythm
 - Phineas and Ferb - I'm Lindana and I Wanna Have Fun!
+- Phineas and Ferb - Ducky Momo Is My Friend
+- Phineas and Ferb - Gitchee Gitchee Goo
+- Phineas and Ferb - Backyard Beach
+- Perry The Platypus Theme Song
+- Phineas and Ferb - Come Home Perry
+- Phineas and Ferb - Let's Go Digital
 *** Patlabor OVA
 - 笠原弘子 - 未来派Lovers
 - Patlabor Soundtrack - Revolution
@@ -342,7 +418,7 @@
 
 
 *** Initial D
-
+eurobeat
 - Sara - Burning Up For You
 - Elisa - Lost Into The Night
 - m.o.v.e - Rage your dream
@@ -399,9 +475,15 @@
 - Jack Wall - Lotus Towers
 - Jack Wall - Leviathan
 
+*** Call of Duty: Modern Warfare (2019)
+
+- Call of Duty: Modern Warfare OST - Danger Close
+
 *** Call of Duty: Cold War
 
 - Jack Wall - Cold War
+- Pat Benatar - Give me your best shot 
+- Jack Wall - Confronting Hudson
 - Billy Squier - The Stroke
 
 *** Call of Duty: Black Ops 7
@@ -429,12 +511,18 @@
   - Mary Elizabeth McGlynn - Hell Frozen Rain
   - Mary Elizabeth McGlynn - One More Soul to the Call
 
+*** MementoMori
+
+- Eri Sasaki - Anemone
+- Haruka Shimotsuki - Étoile 
+
 *** Minecraft
 
 - C418 - Sweden
 
 *** Terraria
 
+- Terraria Music - Underground Ice
 - Otherworld: Postlude, Credits
 - Calamity Mod - Raw, Unfiltered Calamity,  Theme of Calamitas
 - Calamity Mod - Left Alone, Theme of Brimstone Elemental
@@ -472,6 +560,8 @@
 
 ** MISC
 
+- Vangelis - Chariots Of Fire
+- Frère Jacques
+- Sur le pont d'Avignon
 - Nash - SC-1903
-
 
