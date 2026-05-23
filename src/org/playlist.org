@@ -20,6 +20,7 @@
 - Glenn Gould: Chopin Piano Sonata No. 3 in B minor Op.58
 - Glenn Gould: Prokofieff - Piano Sonata No. 7 in B-flat major op. 83
 - Glenn Gould: Scriabin Sonata 3
+- Glenn Gould: Partita No. 2 in C minor, BWV826
 - Arturo Benedetti Michelangeli - Piano Sonata No. 5 in C Major: I. Andante (Live) 
 - Erik Satie - Gymnopédie No.1
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
@@ -44,6 +45,7 @@
 
 ** Jazz
 - Charlie Parker - Jam Session
+
 ** Pop music
 
 - Ace Frehley - New York Groove
@@ -185,6 +187,7 @@
 
 - Colin Stetson - Among The Sef (Righteous II)
 - The Caretaker - Everywhere At The End Of Time
+- The Caretaker - An Empty Bliss Beyond This World
 - Twisted Nerve - Bernard Herrmann
 - Frank Crumit - Stumbling (1922)
 ** Movie soundtracks
@@ -213,6 +216,10 @@
 
 *** The Terminator
 - Tech Noir
+
+*** Tomorrowland (2015)
+
+- Michael Giacchino - End Credits (From "Tomorrowland"/Score)
 
 *** TRON: Legacy
 
@@ -589,6 +596,8 @@ eurobeat
 
 
 
+** Country
+- Rex Allen - There's a Great Big Beautiful Tomorrow (From The Carousel of Progress)
 ** MISC
 
 - Vangelis - Chariots Of Fire
