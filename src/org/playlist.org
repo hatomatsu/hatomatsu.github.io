@@ -23,6 +23,7 @@
 - Glenn Gould: Partita No. 2 in C minor, BWV826
 - Arturo Benedetti Michelangeli - Piano Sonata No. 5 in C Major: I. Andante (Live) 
 - Erik Satie - Gymnopédie No.1
+- Nikolai Kapustin - Impromptu, op. 66, no. 2
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
 - Antonio Vivaldi - Winter 
@@ -458,6 +459,12 @@ eurobeat
 *** Neon Genesis Evangelion
 
 - A Cruel Angels Thesis Director's Edit. vers II (1996)
+
+*** Evangelion: 1.0
+- Hikaru Utada - Beautiful World
+
+*** Evangelion: 3.0 + 1.0
+- 鷺巣詩郎 - paris
 
 ** Video game soundtracks
 
