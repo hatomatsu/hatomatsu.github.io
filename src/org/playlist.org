@@ -398,14 +398,20 @@
 
 *** NARUTO 疾風伝
 
-- 高梨康治 - 動天
-- 高梨康治 - 暁
-- 高梨康治 - 儀礼
+op
 - いきものがかり - ブルーバード
+- DOES - 紅蓮
 - FLOW - Sign
 - 秦基博 - 透明だった世界
 - NICO Touches The Walls - ニワカ雨ニモ負ケズ
 - KANA-BOON - シルエット
+
+bgm
+- 高梨康治 - 動天
+- 高梨康治 - 暁
+- 高梨康治 - 儀礼
+- 高梨康治, 刃-yaiba- - 形勢逆転
+- 高梨康治, 刃-yaiba- - breakdown
 
 *** NARUTO 疾風伝  the Movie: The Lost Tower
 - 西野カナ - if
