@@ -23,6 +23,7 @@
 - Glenn Gould: Partita No. 2 in C minor, BWV826
 - Arturo Benedetti Michelangeli - Piano Sonata No. 5 in C Major: I. Andante (Live) 
 - Erik Satie - Gymnopédie No.1
+- Nikolai Kapustin - Impromptu, op. 66, no. 2
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
 - Antonio Vivaldi - Winter 
@@ -30,6 +31,7 @@
 - Ravel - Le Tombeau de Couperin, orchestration complète
 - Andrea González Caballero - Prelude BWV 1006a (2017)
 - Michael Nyman - Musique à grande vitesse
+- Michael Nyman - Symphony No. 8 Water Dances
 - Michael Nyman - Big My Secret
 - Michael Nyman - A la folie
 - Michael Nyman - Lamentation
@@ -157,6 +159,7 @@
 - くるり - ばらの花
 - toe - エソテリック
 - King Gnu - 逆夢
+- 相対性理論 - スマトラ警備隊
 
 ** Moe
 
@@ -356,6 +359,10 @@
 *** 妖怪人間ベム
 - ハニー・ナイツ - 妖怪人間ベム 
 
+*** sika
+
+- 福森優光, 和賀裕希 - シカ色デイズ
+
 *** らき☆すた
 
 - 畑亜貴, 神前暁 - もってけ！セーラーふく
@@ -395,16 +402,24 @@
    - 素敵滅法
    - Bad Bully
 
+
+
 *** NARUTO 疾風伝
 
-- 高梨康治 - 動天
-- 高梨康治 - 暁
-- 高梨康治 - 儀礼
+op
 - いきものがかり - ブルーバード
+- DOES - 紅蓮
 - FLOW - Sign
 - 秦基博 - 透明だった世界
 - NICO Touches The Walls - ニワカ雨ニモ負ケズ
 - KANA-BOON - シルエット
+
+bgm
+- 高梨康治 - 動天
+- 高梨康治 - 暁
+- 高梨康治 - 儀礼
+- 高梨康治, 刃-yaiba- - 形勢逆転
+- 高梨康治, 刃-yaiba- - breakdown
 
 *** NARUTO 疾風伝  the Movie: The Lost Tower
 - 西野カナ - if
@@ -458,6 +473,12 @@ eurobeat
 *** Neon Genesis Evangelion
 
 - A Cruel Angels Thesis Director's Edit. vers II (1996)
+
+*** Evangelion: 1.0
+- Hikaru Utada - Beautiful World
+
+*** Evangelion: 3.0 + 1.0
+- 鷺巣詩郎 - paris
 
 ** Video game soundtracks
 
