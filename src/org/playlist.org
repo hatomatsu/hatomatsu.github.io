@@ -39,12 +39,12 @@
 - Estas Tonne - The Song of the Golden Dragon
 - Estas Tonne - Cuban Dance
 - Antonio Ruiz-Pipo - Cancion y Danza 
-- Ode to Joy
+
 - Karajan: Tchaikovsky - Symphony 6 - Movement 3
 - Vladimir Ashkenazy, Rachmaninoff- Piano Concerto No. 3 in D Minor, Op. 30
-  
-
-
+** Orchestra
+- 伊福部昭 - シンフォニア・タプカーラ
+- Beethoven - Symphony No. 9: Ode To Joy
 ** Jazz
 - Charlie Parker - Jam Session
 
@@ -359,7 +359,7 @@
 *** 妖怪人間ベム
 - ハニー・ナイツ - 妖怪人間ベム 
 
-*** sika
+*** しかのこ
 
 - 福森優光, 和賀裕希 - シカ色デイズ
 
@@ -408,11 +408,15 @@
 
 op
 - いきものがかり - ブルーバード
-- DOES - 紅蓮
 - FLOW - Sign
 - 秦基博 - 透明だった世界
 - NICO Touches The Walls - ニワカ雨ニモ負ケズ
+- DOES - 紅蓮
 - KANA-BOON - シルエット
+
+ed
+- オレスカバンド - 自転車
+
 
 bgm
 - 高梨康治 - 動天
@@ -613,4 +617,4 @@ eurobeat
 - Nash - SC-1903
 - Moby - Flower
 
-- 伊福部昭 - シンフォニア・タプカーラ
+
