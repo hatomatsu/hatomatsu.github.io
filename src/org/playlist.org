@@ -44,7 +44,9 @@
 - Vladimir Ashkenazy, Rachmaninoff- Piano Concerto No. 3 in D Minor, Op. 30
 ** Orchestra
 - 伊福部昭 - シンフォニア・タプカーラ
+- 伊福部昭 - 音詩「寒帯林」
 - Beethoven - Symphony No. 9: Ode To Joy
+- Bizet - Carmen Suite 
 ** Jazz
 - Charlie Parker - Jam Session
 
@@ -206,13 +208,16 @@
 *** ゴジラ（1954）
 
 - 伊福部昭 - メインタイトル (M2+M1)
+- 伊福部昭 - ゴジラ再上陸 (M14)
 
 *** ゴジラ / Godzilla
 - Akira Ifukube - Symphonic Fantasia No. 1
 
 *** シン・ゴジラ (2016)
 
+- 鷺巣詩郎, 伊福部昭 - Who will know 
 - 伊福部昭, 鷺巣詩郎 - 宇宙大戦争
+  
 
 *** Hannibal
 - Patrick Cassidy - Vide Cor Meum
@@ -223,6 +228,9 @@
 *** Tomorrowland (2015)
 
 - Michael Giacchino - End Credits (From "Tomorrowland"/Score)
+
+*** Whiplash (2014)
+- John Wasson - Caravan
 
 *** TRON: Legacy
 
@@ -391,6 +399,9 @@
 
 - HIDE - run rabbit junk
 
+*** GQuuuuuuX
+- 星街すいせい - もうどうなってもいいや
+
 *** 〈物語〉シリーズ
 
 
@@ -475,8 +486,10 @@ eurobeat
 - Leslie Parrish - Remember Me
 - Manuel - Gas Gas Gas
 - Wain L - Make Up Your Mind
+- Wain L - Goodbye Yellow Brick Road  
 - Max Coveri - Running In The 90s
 - Dave Rodgers - Deja Vu
+- Dave MC Loud - MIKADO
 
 *** Neon Genesis Evangelion
 
@@ -507,6 +520,7 @@ eurobeat
 - Sean Murray - Deviant
 - Sean Murray - Eagle Claw, Pt. 1
 - Sean Murray - Mac-V
+- Sean Murray - Rooftops
 - Sean Murray - Epilogue
 
 *** Call of Duty: Black Ops 2
