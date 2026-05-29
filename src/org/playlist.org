@@ -21,9 +21,11 @@
 - Glenn Gould: Prokofieff - Piano Sonata No. 7 in B-flat major op. 83
 - Glenn Gould: Scriabin Sonata 3
 - Glenn Gould: Partita No. 2 in C minor, BWV826
+- Glenn Gould: Bizet - Premier Nocturne in F Major (Remastered)
 - Arturo Benedetti Michelangeli - Piano Sonata No. 5 in C Major: I. Andante (Live) 
 - Erik Satie - Gymnopédie No.1
 - Nikolai Kapustin - Impromptu, op. 66, no. 2
+- Nikolai Kapustin - Variations Op.41
 - Dmitry Masleev: Kapustin - Piano Concerto No. 2
 - Nikolai Kapustin - Prelude No. 23, Op. 53: Moderato
 - Antonio Vivaldi - Winter 
@@ -36,17 +38,22 @@
 - Michael Nyman - A la folie
 - Michael Nyman - Lamentation
 - Alberto Iglesias - Me voy a morir de amor
+- Alberto Iglesias - Créditos - La Identidad Inaccesible (from "La Piel Que Habito" OST)
 - Estas Tonne - The Song of the Golden Dragon
 - Estas Tonne - Cuban Dance
 - Antonio Ruiz-Pipo - Cancion y Danza 
 
 - Karajan: Tchaikovsky - Symphony 6 - Movement 3
 - Vladimir Ashkenazy, Rachmaninoff- Piano Concerto No. 3 in D Minor, Op. 30
+- Manuel de Falla - Cuatro piezas españolas (1909)
+- Arturo Benedetti Michelangeli: Piano Sonata No. 5 in C Major: I. Andante (Live) 
 ** Orchestra
 - 伊福部昭 - シンフォニア・タプカーラ
 - 伊福部昭 - 音詩「寒帯林」
+- Joe Hisaishi - Constriction
 - Beethoven - Symphony No. 9: Ode To Joy
-- Bizet - Carmen Suite 
+- Bizet - Carmen Suite
+- Cavalleria Rusticana, Pietro Mascagni - Intermezzo from 
 ** Jazz
 - Charlie Parker - Jam Session
 
@@ -123,6 +130,8 @@
 
 - The Rolling Stones - Sympathy For The Devil
 
+- Lipps Inc. - Funkytown 
+
 ** Commercial 
 
 *** iPhone
@@ -162,6 +171,7 @@
 - toe - エソテリック
 - King Gnu - 逆夢
 - 相対性理論 - スマトラ警備隊
+- Yellow Magic Orchestra - Rydeen
 
 ** Moe
 
@@ -181,6 +191,8 @@
 - Al Bowlly - Heartaches
 - Bobby Darin - Beyond the Sea
 - Julio Iglesias - La Mer (Live)
+- Frank Sinatra - You Make Me Feel So Young
+- A Wonderful Guy - Tex Beneke
 - The Andrews Sisters - Bei Mir Bist Du Schön
 
 
@@ -217,10 +229,15 @@
 
 - 鷺巣詩郎, 伊福部昭 - Who will know 
 - 伊福部昭, 鷺巣詩郎 - 宇宙大戦争
+- Early morning from Tokyo 
   
 
 *** Hannibal
 - Patrick Cassidy - Vide Cor Meum
+
+*** 12 Monkeys
+
+- Libertango - Astor Piazzolla
 
 *** The Terminator
 - Tech Noir
@@ -260,6 +277,10 @@
 - Harry Gregson-Williams - Muir Races to Work
 - Harry Gregson-Williams - "You're Going To Miss It"
 - Harry Gregson-Williams - Operation Dinner Out
+
+*** The Spy Who Came in from the Cold
+
+- Sol Kaplan - Piano Prelude
 
 *** The Secret Life Of Walter Mitty (2013)
 
@@ -317,6 +338,7 @@
 *** House MD
 
 - Massive Attack - Teardrop
+- Vitamin String Quartet Tribute to The Rolling Stones - As Tears Go By 
 
 *** Black Forceps (2018)
 
@@ -346,7 +368,11 @@
 
 *** House of Cards (Netflix)
 
-- House of Cards - Main Theme
+- Jeff Beal - House of Cards Main Theme
+
+*** Helix
+
+- Reinhold Heil - Scrap Book Bossa (Bonus Track)
 
 *** ケイゾク
 - 中谷美紀 - クロニック・ラヴ
@@ -354,8 +380,8 @@
 - 追憶の歌 Solvents&orbits remix
 - THE RICECOOKERS - 波のゆくさき
 - Keiichiro Shibuya - SPEC theme (strings version) 
-
-
+*** Ultra Seven
+- 冬木透 - Sieste
 ** Anime
 *** ARIA
 - ROUND TABLE featuring Nino - Rainbow
@@ -440,9 +466,11 @@ ed
 bgm
 - 高梨康治 - 動天
 - 高梨康治 - 暁
-- 高梨康治 - 儀礼
 - 高梨康治, 刃-yaiba- - 形勢逆転
-- 高梨康治, 刃-yaiba- - breakdown
+- Takanashi Yasuharu - breakdown
+- 高梨康治 - 儀礼
+- 高梨康治 - 紅炎 (Crimson Flames)
+
 
 *** NARUTO 疾風伝  the Movie: The Lost Tower
 - 西野カナ - if
@@ -515,6 +543,10 @@ eurobeat
 - Bioshock Soundtrack - Welcome to Rapture
 
 
+
+*** Call of Duty: Modern Warfare
+
+- Abraham Lass - Rescued!!
 
 *** Call of Duty: Modern Warfare 2
 - Hans Zimmer, Lorne Balfe - Intro Theme
@@ -594,6 +626,10 @@ eurobeat
 - Calamity Mod - Left Alone, Theme of Brimstone Elemental
 - Calamity Mod Extra Tracks - Cold Front
 
+*** ポケモンDP
+
+- ポケモンDP - 209番道路
+
 *** Kirby: Super Star
 - Kirby: Super Star - Gourmet Race
 
@@ -629,14 +665,22 @@ eurobeat
 
 
 
+*** ゼルダの伝説 時のオカリナ
+
+- コタケ、コウメのテーマ -  BGM
+
 ** Country
 - Rex Allen - There's a Great Big Beautiful Tomorrow (From The Carousel of Progress)
 ** MISC
 
 - Vangelis - Chariots Of Fire
+- Liberace - Chariots of Fire
 - Frère Jacques
 - Sur le pont d'Avignon
 - Nash - SC-1903
+- イオン お客様感謝デーの音楽 AEON Discount Day Music
+- Nash - SC-1117
 - Moby - Flower
+- Town (てってってー)
 
 
