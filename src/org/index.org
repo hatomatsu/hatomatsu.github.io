@@ -7,7 +7,7 @@
 #+EXPORT_FILE_NAME: ../../index.html
 
 
-
+Welcome to homepage of Hatomatsu!
 
 *** me
 
@@ -18,6 +18,8 @@
 
 
 #+HTML: <hr>
+
+*** My stuff:
 
 - [[./contents/playlist.html][はとまつのプレイリスト - My Music Playlist]]
 
